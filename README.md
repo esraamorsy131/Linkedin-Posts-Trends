@@ -30,15 +30,17 @@ I want the data to be analysed and a data visualisation to show highlight when t
    
 ## Python Code  📊
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Posts%20For%20each%20Profile.PNG)
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Posts%20For%20Each%20Profile%20(YTD).PNG)
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Best%20Day%20To%20Post.PNG)
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Best%20Time%20To%20Post.PNG)
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Consistency.PNG)
+
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Profiles%20with%20no%20Structured%20Pattern.PNG)
 
 
 
@@ -56,8 +58,8 @@ The project delivers actionable recommendations for optimizing sales strategies,
 
 ## Project Dashboard
 
-![Sales Data Analysis Dashboard]()
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Overall%20Frequency%20Dashboard.PNG)
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Profile%20Frequency%20Dashboard.PNG)
 
 
 
