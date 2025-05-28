@@ -9,7 +9,7 @@ I want the data to be analysed and a data visualisation to show highlight when t
 ## Tools Used 🧑‍💻💻
 
 ### Power BI
-### Python
+### Python(Jupyter Notebook)
 ### Excel
 
 
