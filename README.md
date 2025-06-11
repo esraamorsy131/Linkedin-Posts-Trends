@@ -47,18 +47,6 @@ This project analyzes a dataset of 108 LinkedIn profiles to uncover posting beha
 
 
 
-## Creating Dynamic Dashboard 
-   - Developed a dynamic dashboard for interactive data exploration and visualization.
-
-
-
-
-
-## Project Outcome 🎯
-
-The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends.
-
-
 ## Project Dashboard
 
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Linkedin-Posts-Trends/blob/main/Overall%20Frequency%20Dashboard.PNG)
