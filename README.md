@@ -2,9 +2,8 @@
 
 ## Project Overview
 
-I have an excel sheet with 108 records. the sheet shows the time, days of the week and frequency that profiles post on linkedin. 
-I want the data to be analysed and a data visualisation to show highlight when the profiles are most likely to post their content
 
+This project analyzes a dataset of 108 LinkedIn profiles to uncover posting behaviors, including preferred times and days for content publishing. The aim is to determine optimal posting patterns and identify profiles with consistent or irregular behavior.
 
 ## Tools Used 🧑‍💻💻
 
@@ -18,9 +17,13 @@ I want the data to be analysed and a data visualisation to show highlight when t
 2. **Format Modification:** Adjusted data formats for numbers and dates.
 3. **Fill Missing Data:** Populated empty cells in the "adjustment_reason" column based on the available data.
 4. **Fill Missing Data:** Populated empty cells in the "simplified_return_reason" column based on the available data.
+5. **Standardized date and time formats**
+6. **Extracted posting hour and day of the week from timestamps**
+7. **Validated consistency in profile names and cleaned nulls**
 
 
-## Data Analysis 📊
+
+## Project Outcomes 🎯
 
 1. **Identify The Trends In Linkedin Posts**  
 2. **Show by Linkedin Profile Name The Times and Dates They Post** 
